@@ -1,0 +1,517 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\business\\dtos\\color\\createcolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\dtos\\color\\createcolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\business\\dtos\\color\\getallcolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\dtos\\color\\getallcolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\business\\dtos\\color\\getcolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\dtos\\color\\getcolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\business\\dtos\\color\\updatecolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\dtos\\color\\updatecolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D92869-6943-4F4E-95F9-E244574225ED}|WebApp.API\\WebApp.API.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\webapp.api\\controllers\\colorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D92869-6943-4F4E-95F9-E244574225ED}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\controllers\\colorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D92869-6943-4F4E-95F9-E244574225ED}|WebApp.API\\WebApp.API.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\webapp.api\\controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D92869-6943-4F4E-95F9-E244574225ED}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\dal\\repositories\\implementations\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\implementations\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\dal\\repositories\\implementations\\modelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\implementations\\modelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\dal\\repositories\\interfaces\\imodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\imodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\dal\\repositories\\interfaces\\icolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\icolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\business\\services\\interfaces\\imodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\services\\interfaces\\imodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\business\\services\\implementations\\modelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\services\\implementations\\modelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\business\\services\\implementations\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\services\\implementations\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\business\\services\\interfaces\\icolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\services\\interfaces\\icolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D92869-6943-4F4E-95F9-E244574225ED}|WebApp.API\\WebApp.API.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\webapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D92869-6943-4F4E-95F9-E244574225ED}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\business\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\dal\\dalserviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|solutionrelative:dal\\dalserviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C7EFD6-DC3F-4F15-9682-3E0AD1E8DBD6}|Core\\Core.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\core\\entities\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C7EFD6-DC3F-4F15-9682-3E0AD1E8DBD6}|Core\\Core.csproj|solutionrelative:core\\entities\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C7EFD6-DC3F-4F15-9682-3E0AD1E8DBD6}|Core\\Core.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\core\\entities\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C7EFD6-DC3F-4F15-9682-3E0AD1E8DBD6}|Core\\Core.csproj|solutionrelative:core\\entities\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C7EFD6-DC3F-4F15-9682-3E0AD1E8DBD6}|Core\\Core.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C7EFD6-DC3F-4F15-9682-3E0AD1E8DBD6}|Core\\Core.csproj|solutionrelative:core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\business\\helpers\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\helpers\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\business\\dtos\\model\\updatemodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\dtos\\model\\updatemodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\business\\dtos\\model\\createmodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\dtos\\model\\createmodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\dal\\configurations\\colorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|solutionrelative:dal\\configurations\\colorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\dal\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|solutionrelative:dal\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|solutionrelative:dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D92869-6943-4F4E-95F9-E244574225ED}|WebApp.API\\WebApp.API.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\webapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1D92869-6943-4F4E-95F9-E244574225ED}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C7EFD6-DC3F-4F15-9682-3E0AD1E8DBD6}|Core\\Core.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C7EFD6-DC3F-4F15-9682-3E0AD1E8DBD6}|Core\\Core.csproj|solutionrelative:core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\business\\helpers\\exceptions\\model\\modelnameexsistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC53896-D813-477E-BE52-A23FDA183EDC}|Business\\Business.csproj|solutionrelative:business\\helpers\\exceptions\\model\\modelnameexsistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\dal\\migrations\\20241226083539_addisdeletedcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20241226083539_addisdeletedcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|c:\\users\\i novbe\\desktop\\archcrud - copy\\architecture\\dal\\migrations\\20241228084831_alltabless.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAAEBF0-420C-46FC-A58D-772D7BB3C9E7}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20241228084831_alltabless.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ColorsController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\WebApp.API\\Controllers\\ColorsController.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Controllers\\ColorsController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\WebApp.API\\Controllers\\ColorsController.cs",
+              "RelativeToolTip": "WebApp.API\\Controllers\\ColorsController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:49:26.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ColorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\DAL\\Repositories\\Implementations\\ColorRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Implementations\\ColorRepository.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\DAL\\Repositories\\Implementations\\ColorRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Implementations\\ColorRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwDAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:19:31.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModelsController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\WebApp.API\\Controllers\\ModelsController.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Controllers\\ModelsController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\WebApp.API\\Controllers\\ModelsController.cs",
+              "RelativeToolTip": "WebApp.API\\Controllers\\ModelsController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwEwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:59:24.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IModelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\DAL\\Repositories\\Interfaces\\IModelRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IModelRepository.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\DAL\\Repositories\\Interfaces\\IModelRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IModelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:50:38.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ModelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\DAL\\Repositories\\Implementations\\ModelRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Implementations\\ModelRepository.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\DAL\\Repositories\\Implementations\\ModelRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Implementations\\ModelRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T07:07:06.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IColorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\DAL\\Repositories\\Interfaces\\IColorRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IColorRepository.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\DAL\\Repositories\\Interfaces\\IColorRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IColorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:18:07.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateColorDto.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Business\\DTOs\\Color\\CreateColorDto.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\Color\\CreateColorDto.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Business\\DTOs\\Color\\CreateColorDto.cs",
+              "RelativeToolTip": "Business\\DTOs\\Color\\CreateColorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:23:46.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAllColorDto.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Business\\DTOs\\Color\\GetAllColorDto.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\Color\\GetAllColorDto.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Business\\DTOs\\Color\\GetAllColorDto.cs",
+              "RelativeToolTip": "Business\\DTOs\\Color\\GetAllColorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:25:43.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetColorDto.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Business\\DTOs\\Color\\GetColorDto.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\Color\\GetColorDto.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Business\\DTOs\\Color\\GetColorDto.cs",
+              "RelativeToolTip": "Business\\DTOs\\Color\\GetColorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:22:44.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateColorDto.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Business\\DTOs\\Color\\UpdateColorDto.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\Color\\UpdateColorDto.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Business\\DTOs\\Color\\UpdateColorDto.cs",
+              "RelativeToolTip": "Business\\DTOs\\Color\\UpdateColorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:26:36.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IModelService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Business\\Services\\Interfaces\\IModelService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Interfaces\\IModelService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Business\\Services\\Interfaces\\IModelService.cs",
+              "RelativeToolTip": "Business\\Services\\Interfaces\\IModelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:38:24.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ModelService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Business\\Services\\Implementations\\ModelService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Implementations\\ModelService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Business\\Services\\Implementations\\ModelService.cs",
+              "RelativeToolTip": "Business\\Services\\Implementations\\ModelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:40:21.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ColorService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Business\\Services\\Implementations\\ColorService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Implementations\\ColorService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Business\\Services\\Implementations\\ColorService.cs",
+              "RelativeToolTip": "Business\\Services\\Implementations\\ColorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:31:15.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IColorService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Business\\Services\\Interfaces\\IColorService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Interfaces\\IColorService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Business\\Services\\Interfaces\\IColorService.cs",
+              "RelativeToolTip": "Business\\Services\\Interfaces\\IColorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:21:59.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\WebApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\WebApp.API\\Program.cs",
+              "RelativeToolTip": "WebApp.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:09:55.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServiceRegistrations.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Business\\ServiceRegistrations.cs",
+              "RelativeDocumentMoniker": "Business\\ServiceRegistrations.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Business\\ServiceRegistrations.cs",
+              "RelativeToolTip": "Business\\ServiceRegistrations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:07:52.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "RelativeToolTip": "Business\\Helpers\\Mapper\\AutoMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:37:50.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Core\\Entities\\Product.cs",
+              "RelativeToolTip": "Core\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:09:08.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Core\\Entities\\Model.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Model.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Core\\Entities\\Model.cs",
+              "RelativeToolTip": "Core\\Entities\\Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:12:33.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20241228084831_AllTabless.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\DAL\\Migrations\\20241228084831_AllTabless.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20241228084831_AllTabless.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\DAL\\Migrations\\20241228084831_AllTabless.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20241228084831_AllTabless.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:48:31.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DALServiceRegistrations.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\DAL\\DALServiceRegistrations.cs",
+              "RelativeDocumentMoniker": "DAL\\DALServiceRegistrations.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\DAL\\DALServiceRegistrations.cs",
+              "RelativeToolTip": "DAL\\DALServiceRegistrations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:51:34.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Core\\Entities\\Color.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Color.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Core\\Entities\\Color.cs",
+              "RelativeToolTip": "Core\\Entities\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:10:50.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateModelDto.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Business\\DTOs\\Model\\UpdateModelDto.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\Model\\UpdateModelDto.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Business\\DTOs\\Model\\UpdateModelDto.cs",
+              "RelativeToolTip": "Business\\DTOs\\Model\\UpdateModelDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:10:51.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ColorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\DAL\\Configurations\\ColorConfiguration.cs",
+              "RelativeDocumentMoniker": "DAL\\Configurations\\ColorConfiguration.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\DAL\\Configurations\\ColorConfiguration.cs",
+              "RelativeToolTip": "DAL\\Configurations\\ColorConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:15:15.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\DAL\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "DAL\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\DAL\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "DAL\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:14:55.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateModelDto.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Business\\DTOs\\Model\\CreateModelDto.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\Model\\CreateModelDto.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Business\\DTOs\\Model\\CreateModelDto.cs",
+              "RelativeToolTip": "Business\\DTOs\\Model\\CreateModelDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:27:10.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\DAL\\Context\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Context\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\DAL\\Context\\AppDBContext.cs",
+              "RelativeToolTip": "DAL\\Context\\AppDBContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:13:58.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\WebApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\WebApp.API\\appsettings.json",
+              "RelativeToolTip": "WebApp.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T07:42:59.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ModelNameExsistException.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Business\\Helpers\\Exceptions\\Model\\ModelNameExsistException.cs",
+              "RelativeDocumentMoniker": "Business\\Helpers\\Exceptions\\Model\\ModelNameExsistException.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Business\\Helpers\\Exceptions\\Model\\ModelNameExsistException.cs",
+              "RelativeToolTip": "Business\\Helpers\\Exceptions\\Model\\ModelNameExsistException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:48:55.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:34:29.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241226083539_addIsDeletedColumn.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\DAL\\Migrations\\20241226083539_addIsDeletedColumn.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20241226083539_addIsDeletedColumn.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\ArchCrud - Copy\\Architecture\\DAL\\Migrations\\20241226083539_addIsDeletedColumn.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20241226083539_addIsDeletedColumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:35:39.473Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
